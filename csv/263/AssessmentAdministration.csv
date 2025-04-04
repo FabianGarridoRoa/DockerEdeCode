@@ -1,0 +1,1150 @@
+AssessmentAdministrationPeriodDescription;AssessmentId;AssessmentSecureIndicator;Code;FinishDate;FinishTime;Name;RecordEndDateTime;RecordStartDateTime;RefAssessmentReportingMethodId;StartDate;StartTime;AssessmentAdministrationId
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3494622
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3495230
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3494623
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3495327
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3495137
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3495681
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3495138
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3495682
+;101;;5;;;nota #5: Educación Física y Salud;;;;;;3495683
+;101;;1;;;nota #1: Idioma Extranjero 1 (Ingles);;;;;;3494656
+;101;;1;;;nota #1: Idioma Extranjero 1 (Ingles);;;;;;3495357
+;101;;2;;;nota #2: Idioma Extranjero 1 (Ingles);;;;;;3494657
+;101;;2;;;nota #2: Idioma Extranjero 1 (Ingles);;;;;;3495358
+;101;;3;;;nota #3: Idioma Extranjero 1 (Ingles);;;;;;3494658
+;101;;3;;;nota #3: Idioma Extranjero 1 (Ingles);;;;;;3495359
+;101;;4;;;nota #4: Idioma Extranjero 1 (Ingles);;;;;;3494659
+;101;;4;;;nota #4: Idioma Extranjero 1 (Ingles);;;;;;3495360
+;101;;5;;;nota #5: Idioma Extranjero 1 (Ingles);;;;;;3495361
+;100;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3494577
+;100;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3495162
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3494578
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3495163
+;101;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3494579
+;101;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3495164
+;101;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3494580
+;101;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3495165
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3494581
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3495166
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3494582
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3495167
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3494583
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3495168
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3494584
+;100;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3495169
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3494585
+;100;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3495170
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3495675
+;101;;11;;;nota #11: Lenguaje y Comunicación;;;;;;3495676
+;101;;1;;;nota #1: Matemática;;;;;;3494862
+;101;;1;;;nota #1: Matemática;;;;;;3495307
+;101;;2;;;nota #2: Matemática;;;;;;3494863
+;101;;2;;;nota #2: Matemática;;;;;;3495308
+;100;;3;;;nota #3: Matemática;;;;;;3494864
+;101;;3;;;nota #3: Matemática;;;;;;3495309
+;100;;4;;;nota #4: Matemática;;;;;;3494865
+;101;;4;;;nota #4: Matemática;;;;;;3495310
+;101;;5;;;nota #5: Matemática;;;;;;3494866
+;101;;5;;;nota #5: Matemática;;;;;;3495311
+;101;;6;;;nota #6: Matemática;;;;;;3494867
+;101;;6;;;nota #6: Matemática;;;;;;3495742
+;101;;7;;;nota #7: Matemática;;;;;;3494868
+;100;;7;;;nota #7: Matemática;;;;;;3495767
+;101;;8;;;nota #8: Matemática;;;;;;3494869
+;100;;8;;;nota #8: Matemática;;;;;;3495768
+;101;;9;;;nota #9: Matemática;;;;;;3495769
+;101;;1;;;nota #1: Tecnología;;;;;;3494627
+;101;;1;;;nota #1: Tecnología;;;;;;3495183
+;101;;2;;;nota #2: Tecnología;;;;;;3495126
+;101;;2;;;nota #2: Tecnología;;;;;;3495184
+;101;;3;;;nota #3: Tecnología;;;;;;3495127
+;101;;3;;;nota #3: Tecnología;;;;;;3495185
+;101;;4;;;nota #4: Tecnología;;;;;;3495356
+;101;;1;;;nota #1: Religión;;;;;;3495004
+;101;;1;;;nota #1: Religión;;;;;;3495582
+;101;;2;;;nota #2: Religión;;;;;;3495005
+;101;;2;;;nota #2: Religión;;;;;;3495583
+;101;;3;;;nota #3: Religión;;;;;;3495646
+;101;;1;;;nota #1: Educación Artística;;;;;;3494631
+;101;;1;;;nota #1: Educación Artística;;;;;;3495186
+;101;;2;;;nota #2: Educación Artística;;;;;;3494632
+;101;;2;;;nota #2: Educación Artística;;;;;;3495187
+;101;;3;;;nota #3: Educación Artística;;;;;;3494633
+;101;;3;;;nota #3: Educación Artística;;;;;;3495188
+;101;;4;;;nota #4: Educación Artística;;;;;;3495770
+;100;;1;;;nota #1: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3494799
+;100;;1;;;nota #1: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495171
+;100;;2;;;nota #2: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3494800
+;100;;2;;;nota #2: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495172
+;101;;3;;;nota #3: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3494801
+;101;;3;;;nota #3: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495173
+;100;;4;;;nota #4: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3494802
+;101;;4;;;nota #4: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495174
+;100;;5;;;nota #5: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3494803
+;100;;5;;;nota #5: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495175
+;101;;6;;;nota #6: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3494804
+;100;;6;;;nota #6: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495176
+;101;;7;;;nota #7: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495112
+;101;;7;;;nota #7: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495177
+;101;;8;;;nota #8: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495113
+;100;;8;;;nota #8: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495178
+;101;;9;;;nota #9: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495114
+;100;;9;;;nota #9: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495179
+;101;;10;;;nota #10: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495115
+;101;;10;;;nota #10: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495180
+;101;;11;;;nota #11: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495116
+;101;;11;;;nota #11: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495181
+;101;;12;;;nota #12: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495182
+;101;;13;;;nota #13: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495354
+;101;;14;;;nota #14: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3495355
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3514755
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3515228
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3515050
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3515231
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3515104
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3515764
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3515125
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3515765
+;101;;5;;;nota #5: Educación Física y Salud;;;;;;3515766
+;101;;1;;;nota #1: Idioma Extranjero 1 (Ingles);;;;;;3514660
+;101;;1;;;nota #1: Idioma Extranjero 1 (Ingles);;;;;;3515396
+;101;;2;;;nota #2: Idioma Extranjero 1 (Ingles);;;;;;3514661
+;101;;2;;;nota #2: Idioma Extranjero 1 (Ingles);;;;;;3515397
+;101;;3;;;nota #3: Idioma Extranjero 1 (Ingles);;;;;;3514662
+;101;;3;;;nota #3: Idioma Extranjero 1 (Ingles);;;;;;3515398
+;101;;4;;;nota #4: Idioma Extranjero 1 (Ingles);;;;;;3514663
+;101;;4;;;nota #4: Idioma Extranjero 1 (Ingles);;;;;;3515399
+;101;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3514744
+;101;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3515376
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3514745
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3515377
+;100;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3514746
+;100;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3515378
+;100;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3514747
+;100;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3515379
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3514748
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3515380
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3514749
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3515381
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3514750
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3515382
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3514751
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3515383
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3514752
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3515384
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3514753
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3515385
+;100;;1;;;nota #1: Matemática;;;;;;3514900
+;100;;1;;;nota #1: Matemática;;;;;;3515312
+;100;;2;;;nota #2: Matemática;;;;;;3514901
+;100;;2;;;nota #2: Matemática;;;;;;3515313
+;101;;3;;;nota #3: Matemática;;;;;;3514902
+;101;;3;;;nota #3: Matemática;;;;;;3515314
+;100;;4;;;nota #4: Matemática;;;;;;3514903
+;100;;4;;;nota #4: Matemática;;;;;;3515315
+;100;;5;;;nota #5: Matemática;;;;;;3514904
+;100;;5;;;nota #5: Matemática;;;;;;3515316
+;101;;6;;;nota #6: Matemática;;;;;;3514905
+;101;;6;;;nota #6: Matemática;;;;;;3515317
+;100;;7;;;nota #7: Matemática;;;;;;3514906
+;100;;7;;;nota #7: Matemática;;;;;;3515318
+;100;;8;;;nota #8: Matemática;;;;;;3514907
+;100;;8;;;nota #8: Matemática;;;;;;3515319
+;101;;9;;;nota #9: Matemática;;;;;;3514908
+;101;;9;;;nota #9: Matemática;;;;;;3515320
+;101;;10;;;nota #10: Matemática;;;;;;3515028
+;101;;10;;;nota #10: Matemática;;;;;;3515321
+;101;;11;;;nota #11: Matemática;;;;;;3515098
+;100;;11;;;nota #11: Matemática;;;;;;3515322
+;100;;12;;;nota #12: Matemática;;;;;;3515323
+;101;;13;;;nota #13: Matemática;;;;;;3515324
+;101;;14;;;nota #14: Matemática;;;;;;3515325
+;101;;1;;;nota #1: Tecnología;;;;;;3514650
+;101;;1;;;nota #1: Tecnología;;;;;;3515362
+;101;;2;;;nota #2: Tecnología;;;;;;3514651
+;101;;2;;;nota #2: Tecnología;;;;;;3515363
+;101;;3;;;nota #3: Tecnología;;;;;;3514652
+;101;;3;;;nota #3: Tecnología;;;;;;3515364
+;101;;4;;;nota #4: Tecnología;;;;;;3515365
+;101;;1;;;nota #1: Religión;;;;;;3515006
+;101;;1;;;nota #1: Religión;;;;;;3515579
+;101;;2;;;nota #2: Religión;;;;;;3515007
+;101;;2;;;nota #2: Religión;;;;;;3515580
+;101;;3;;;nota #3: Religión;;;;;;3515581
+;101;;1;;;nota #1: Educación Artística;;;;;;3514759
+;101;;1;;;nota #1: Educación Artística;;;;;;3515536
+;101;;2;;;nota #2: Educación Artística;;;;;;3514760
+;101;;2;;;nota #2: Educación Artística;;;;;;3515537
+;101;;3;;;nota #3: Educación Artística;;;;;;3514761
+;101;;3;;;nota #3: Educación Artística;;;;;;3515538
+;101;;4;;;nota #4: Educación Artística;;;;;;3514762
+;101;;4;;;nota #4: Educación Artística;;;;;;3515539
+;101;;5;;;nota #5: Educación Artística;;;;;;3515540
+;101;;6;;;nota #6: Educación Artística;;;;;;3515541
+;101;;7;;;nota #7: Educación Artística;;;;;;3515542
+;101;;1;;;nota #1: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514763
+;100;;1;;;nota #1: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515404
+;101;;2;;;nota #2: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514764
+;100;;2;;;nota #2: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515405
+;100;;3;;;nota #3: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514765
+;101;;3;;;nota #3: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515406
+;100;;4;;;nota #4: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514766
+;101;;4;;;nota #4: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515407
+;101;;5;;;nota #5: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514767
+;101;;5;;;nota #5: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515408
+;101;;6;;;nota #6: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514776
+;101;;6;;;nota #6: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515409
+;100;;7;;;nota #7: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514777
+;101;;7;;;nota #7: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515439
+;100;;8;;;nota #8: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514778
+;100;;8;;;nota #8: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515440
+;101;;9;;;nota #9: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514779
+;100;;9;;;nota #9: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515441
+;101;;10;;;nota #10: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514780
+;101;;10;;;nota #10: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515442
+;100;;11;;;nota #11: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514781
+;100;;11;;;nota #11: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515443
+;100;;12;;;nota #12: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514782
+;100;;12;;;nota #12: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515444
+;101;;13;;;nota #13: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514783
+;101;;13;;;nota #13: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3515445
+;101;;14;;;nota #14: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3514784
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3534756
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3535227
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3535092
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3535232
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3535157
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3535684
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3535158
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3535685
+;101;;5;;;nota #5: Educación Física y Salud;;;;;;3535686
+;101;;1;;;nota #1: Idioma Extranjero 1 (Ingles);;;;;;3534664
+;101;;1;;;nota #1: Idioma Extranjero 1 (Ingles);;;;;;3535400
+;101;;2;;;nota #2: Idioma Extranjero 1 (Ingles);;;;;;3535029
+;101;;2;;;nota #2: Idioma Extranjero 1 (Ingles);;;;;;3535401
+;101;;3;;;nota #3: Idioma Extranjero 1 (Ingles);;;;;;3535030
+;101;;3;;;nota #3: Idioma Extranjero 1 (Ingles);;;;;;3535402
+;101;;4;;;nota #4: Idioma Extranjero 1 (Ingles);;;;;;3535031
+;101;;4;;;nota #4: Idioma Extranjero 1 (Ingles);;;;;;3535403
+;101;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3534566
+;101;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3535418
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3534567
+;101;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3535419
+;100;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3534568
+;100;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3535420
+;100;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3534569
+;100;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3535421
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3534570
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3535422
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3534571
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3535423
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3534572
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3535424
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3534573
+;100;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3535425
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3534574
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3535426
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3534575
+;100;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3535427
+;101;;11;;;nota #11: Lenguaje y Comunicación;;;;;;3534576
+;100;;11;;;nota #11: Lenguaje y Comunicación;;;;;;3535428
+;101;;12;;;nota #12: Lenguaje y Comunicación;;;;;;3535429
+;100;;1;;;nota #1: Matemática;;;;;;3534870
+;100;;1;;;nota #1: Matemática;;;;;;3535430
+;100;;2;;;nota #2: Matemática;;;;;;3534871
+;100;;2;;;nota #2: Matemática;;;;;;3535431
+;100;;3;;;nota #3: Matemática;;;;;;3534872
+;100;;3;;;nota #3: Matemática;;;;;;3535432
+;101;;4;;;nota #4: Matemática;;;;;;3534873
+;100;;4;;;nota #4: Matemática;;;;;;3535433
+;100;;5;;;nota #5: Matemática;;;;;;3534874
+;101;;5;;;nota #5: Matemática;;;;;;3535434
+;100;;6;;;nota #6: Matemática;;;;;;3534875
+;100;;6;;;nota #6: Matemática;;;;;;3535435
+;100;;7;;;nota #7: Matemática;;;;;;3534876
+;100;;7;;;nota #7: Matemática;;;;;;3535436
+;101;;8;;;nota #8: Matemática;;;;;;3534877
+;100;;8;;;nota #8: Matemática;;;;;;3535437
+;101;;9;;;nota #9: Matemática;;;;;;3535123
+;101;;9;;;nota #9: Matemática;;;;;;3535438
+;100;;10;;;nota #10: Matemática;;;;;;3535128
+;101;;10;;;nota #10: Matemática;;;;;;3535687
+;100;;11;;;nota #11: Matemática;;;;;;3535129
+;100;;11;;;nota #11: Matemática;;;;;;3535688
+;101;;12;;;nota #12: Matemática;;;;;;3535130
+;100;;12;;;nota #12: Matemática;;;;;;3535689
+;101;;13;;;nota #13: Matemática;;;;;;3535690
+;101;;14;;;nota #14: Matemática;;;;;;3535691
+;100;;15;;;nota #15: Matemática;;;;;;3535750
+;100;;16;;;nota #16: Matemática;;;;;;3535751
+;101;;17;;;nota #17: Matemática;;;;;;3535752
+;101;;1;;;nota #1: Tecnología;;;;;;3534896
+;101;;1;;;nota #1: Tecnología;;;;;;3535570
+;101;;2;;;nota #2: Tecnología;;;;;;3535053
+;101;;2;;;nota #2: Tecnología;;;;;;3535571
+;101;;3;;;nota #3: Tecnología;;;;;;3535093
+;101;;3;;;nota #3: Tecnología;;;;;;3535572
+;101;;4;;;nota #4: Tecnología;;;;;;3535729
+;101;;1;;;nota #1: Religión;;;;;;3535008
+;101;;1;;;nota #1: Religión;;;;;;3535647
+;101;;2;;;nota #2: Religión;;;;;;3535009
+;101;;2;;;nota #2: Religión;;;;;;3535648
+;101;;3;;;nota #3: Religión;;;;;;3535649
+;101;;1;;;nota #1: Educación Artística;;;;;;3534909
+;101;;1;;;nota #1: Educación Artística;;;;;;3535527
+;101;;2;;;nota #2: Educación Artística;;;;;;3534910
+;101;;2;;;nota #2: Educación Artística;;;;;;3535528
+;101;;3;;;nota #3: Educación Artística;;;;;;3534911
+;101;;3;;;nota #3: Educación Artística;;;;;;3535529
+;101;;4;;;nota #4: Educación Artística;;;;;;3534912
+;101;;4;;;nota #4: Educación Artística;;;;;;3535530
+;101;;5;;;nota #5: Educación Artística;;;;;;3534930
+;101;;5;;;nota #5: Educación Artística;;;;;;3535666
+;101;;6;;;nota #6: Educación Artística;;;;;;3534931
+;100;;1;;;nota #1: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534913
+;101;;1;;;nota #1: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535295
+;100;;2;;;nota #2: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534914
+;100;;2;;;nota #2: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535296
+;101;;3;;;nota #3: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534915
+;100;;3;;;nota #3: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535297
+;101;;4;;;nota #4: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534916
+;101;;4;;;nota #4: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535298
+;100;;5;;;nota #5: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534917
+;100;;5;;;nota #5: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535299
+;100;;6;;;nota #6: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534918
+;100;;6;;;nota #6: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535300
+;101;;7;;;nota #7: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534919
+;101;;7;;;nota #7: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535301
+;100;;8;;;nota #8: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534920
+;101;;8;;;nota #8: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535302
+;100;;9;;;nota #9: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534921
+;100;;9;;;nota #9: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535303
+;100;;10;;;nota #10: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534922
+;100;;10;;;nota #10: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535304
+;101;;11;;;nota #11: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534923
+;100;;11;;;nota #11: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535305
+;100;;12;;;nota #12: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3534924
+;101;;12;;;nota #12: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535306
+;100;;13;;;nota #13: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535054
+;100;;13;;;nota #13: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535674
+;101;;14;;;nota #14: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535055
+;100;;14;;;nota #14: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535711
+;101;;15;;;nota #15: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535712
+;101;;16;;;nota #16: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3535713
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3554754
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3555233
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3555048
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3555288
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3555103
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3555735
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3555124
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3555736
+;101;;5;;;nota #5: Educación Física y Salud;;;;;;3555737
+;101;;1;;;nota #1: Idioma Extranjero 1 (Ingles);;;;;;3554667
+;101;;1;;;nota #1: Idioma Extranjero 1 (Ingles);;;;;;3555692
+;101;;2;;;nota #2: Idioma Extranjero 1 (Ingles);;;;;;3554668
+;101;;2;;;nota #2: Idioma Extranjero 1 (Ingles);;;;;;3555693
+;101;;3;;;nota #3: Idioma Extranjero 1 (Ingles);;;;;;3554669
+;101;;3;;;nota #3: Idioma Extranjero 1 (Ingles);;;;;;3555694
+;101;;4;;;nota #4: Idioma Extranjero 1 (Ingles);;;;;;3554670
+;101;;4;;;nota #4: Idioma Extranjero 1 (Ingles);;;;;;3555695
+;101;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3554634
+;100;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3555489
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3554635
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3555490
+;100;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3554636
+;100;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3555491
+;100;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3554637
+;101;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3555492
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3554638
+;100;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3555493
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3554639
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3555494
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3554640
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3555495
+;100;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3554641
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3555496
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3554642
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3555497
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3554643
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3555498
+;101;;11;;;nota #11: Lenguaje y Comunicación;;;;;;3554644
+;101;;11;;;nota #11: Lenguaje y Comunicación;;;;;;3555499
+;101;;12;;;nota #12: Lenguaje y Comunicación;;;;;;3554645
+;101;;1;;;nota #1: Matemática;;;;;;3555020
+;101;;1;;;nota #1: Matemática;;;;;;3555512
+;101;;2;;;nota #2: Matemática;;;;;;3555021
+;101;;2;;;nota #2: Matemática;;;;;;3555513
+;101;;3;;;nota #3: Matemática;;;;;;3555022
+;101;;3;;;nota #3: Matemática;;;;;;3555514
+;101;;4;;;nota #4: Matemática;;;;;;3555099
+;101;;4;;;nota #4: Matemática;;;;;;3555515
+;101;;5;;;nota #5: Matemática;;;;;;3555100
+;101;;5;;;nota #5: Matemática;;;;;;3555516
+;101;;6;;;nota #6: Matemática;;;;;;3555101
+;101;;6;;;nota #6: Matemática;;;;;;3555517
+;101;;7;;;nota #7: Matemática;;;;;;3555102
+;101;;7;;;nota #7: Matemática;;;;;;3555518
+;101;;8;;;nota #8: Matemática;;;;;;3555749
+;101;;1;;;nota #1: Tecnología;;;;;;3554967
+;101;;1;;;nota #1: Tecnología;;;;;;3555446
+;101;;2;;;nota #2: Tecnología;;;;;;3554968
+;101;;2;;;nota #2: Tecnología;;;;;;3555447
+;101;;3;;;nota #3: Tecnología;;;;;;3554969
+;101;;3;;;nota #3: Tecnología;;;;;;3555448
+;101;;4;;;nota #4: Tecnología;;;;;;3555449
+;101;;1;;;nota #1: Religión;;;;;;3555010
+;101;;1;;;nota #1: Religión;;;;;;3555643
+;101;;2;;;nota #2: Religión;;;;;;3555011
+;101;;2;;;nota #2: Religión;;;;;;3555644
+;101;;3;;;nota #3: Religión;;;;;;3555645
+;101;;1;;;nota #1: Educación Artística;;;;;;3554653
+;101;;1;;;nota #1: Educación Artística;;;;;;3555519
+;101;;2;;;nota #2: Educación Artística;;;;;;3554654
+;101;;2;;;nota #2: Educación Artística;;;;;;3555520
+;101;;3;;;nota #3: Educación Artística;;;;;;3554655
+;101;;3;;;nota #3: Educación Artística;;;;;;3555521
+;101;;4;;;nota #4: Educación Artística;;;;;;3555042
+;101;;4;;;nota #4: Educación Artística;;;;;;3555522
+;101;;5;;;nota #5: Educación Artística;;;;;;3555043
+;101;;5;;;nota #5: Educación Artística;;;;;;3555672
+;101;;6;;;nota #6: Educación Artística;;;;;;3555111
+;101;;6;;;nota #6: Educación Artística;;;;;;3555673
+;101;;1;;;nota #1: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3554813
+;101;;1;;;nota #1: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555500
+;101;;2;;;nota #2: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3554814
+;101;;2;;;nota #2: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555501
+;101;;3;;;nota #3: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3554815
+;101;;3;;;nota #3: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555502
+;101;;4;;;nota #4: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3554816
+;101;;4;;;nota #4: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555503
+;100;;5;;;nota #5: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3554817
+;101;;5;;;nota #5: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555504
+;100;;6;;;nota #6: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555023
+;101;;6;;;nota #6: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555505
+;101;;7;;;nota #7: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555131
+;101;;7;;;nota #7: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555506
+;101;;8;;;nota #8: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555132
+;101;;8;;;nota #8: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555507
+;100;;9;;;nota #9: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555133
+;100;;9;;;nota #9: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555508
+;100;;10;;;nota #10: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555134
+;100;;10;;;nota #10: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555509
+;101;;11;;;nota #11: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555135
+;100;;11;;;nota #11: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555510
+;101;;12;;;nota #12: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555136
+;101;;12;;;nota #12: Estudio Y Comprensión Del Medio Natural, Social Y Cultural;;;;;;3555511
+;101;;1;;;nota #1: Artes Visuales;;;;;;3574672
+;101;;1;;;nota #1: Artes Visuales;;;;;;3575584
+;101;;2;;;nota #2: Artes Visuales;;;;;;3574673
+;101;;2;;;nota #2: Artes Visuales;;;;;;3575585
+;101;;3;;;nota #3: Artes Visuales;;;;;;3574674
+;101;;3;;;nota #3: Artes Visuales;;;;;;3575586
+;101;;4;;;nota #4: Artes Visuales;;;;;;3574675
+;101;;4;;;nota #4: Artes Visuales;;;;;;3575587
+;101;;5;;;nota #5: Artes Visuales;;;;;;3575588
+;100;;1;;;nota #1: Ciencias Naturales;;;;;;3574709
+;101;;1;;;nota #1: Ciencias Naturales;;;;;;3575348
+;100;;2;;;nota #2: Ciencias Naturales;;;;;;3574710
+;101;;2;;;nota #2: Ciencias Naturales;;;;;;3575543
+;101;;3;;;nota #3: Ciencias Naturales;;;;;;3574711
+;100;;3;;;nota #3: Ciencias Naturales;;;;;;3575544
+;101;;4;;;nota #4: Ciencias Naturales;;;;;;3575073
+;100;;4;;;nota #4: Ciencias Naturales;;;;;;3575545
+;101;;5;;;nota #5: Ciencias Naturales;;;;;;3575074
+;101;;5;;;nota #5: Ciencias Naturales;;;;;;3575546
+;101;;6;;;nota #6: Ciencias Naturales;;;;;;3575075
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3574758
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3575234
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3575051
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3575293
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3575109
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3575667
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3575110
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3575668
+;101;;5;;;nota #5: Educación Física y Salud;;;;;;3575741
+;100;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3574947
+;101;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3575450
+;100;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3574948
+;101;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3575488
+;101;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3574949
+;101;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3575714
+;100;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3574950
+;101;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3575715
+;100;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3574951
+;101;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3575716
+;101;;6;;;nota #6: Historia, Geografía y Ciencias Sociales;;;;;;3574952
+;100;;7;;;nota #7: Historia, Geografía y Ciencias Sociales;;;;;;3574953
+;100;;8;;;nota #8: Historia, Geografía y Ciencias Sociales;;;;;;3574954
+;101;;9;;;nota #9: Historia, Geografía y Ciencias Sociales;;;;;;3574955
+;101;;10;;;nota #10: Historia, Geografía y Ciencias Sociales;;;;;;3574956
+;100;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3574586
+;100;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3575189
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3574587
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3575190
+;101;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3574588
+;100;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3575191
+;101;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3574589
+;101;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3575192
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3574590
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3575193
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3574591
+;101;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3575194
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3574592
+;101;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3575195
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3574593
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3575196
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3574594
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3575197
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3574646
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3575723
+;101;;11;;;nota #11: Lenguaje y Comunicación;;;;;;3575726
+;100;;1;;;nota #1: Matemática;;;;;;3574825
+;101;;1;;;nota #1: Matemática;;;;;;3575328
+;101;;2;;;nota #2: Matemática;;;;;;3574826
+;101;;2;;;nota #2: Matemática;;;;;;3575329
+;100;;3;;;nota #3: Matemática;;;;;;3574827
+;101;;3;;;nota #3: Matemática;;;;;;3575330
+;101;;4;;;nota #4: Matemática;;;;;;3574828
+;101;;4;;;nota #4: Matemática;;;;;;3575331
+;100;;5;;;nota #5: Matemática;;;;;;3574829
+;101;;5;;;nota #5: Matemática;;;;;;3575332
+;101;;6;;;nota #6: Matemática;;;;;;3574830
+;101;;6;;;nota #6: Matemática;;;;;;3575333
+;100;;7;;;nota #7: Matemática;;;;;;3575058
+;101;;8;;;nota #8: Matemática;;;;;;3575059
+;100;;9;;;nota #9: Matemática;;;;;;3575060
+;101;;10;;;nota #10: Matemática;;;;;;3575061
+;101;;1;;;nota #1: Música;;;;;;3575094
+;101;;1;;;nota #1: Música;;;;;;3575661
+;101;;2;;;nota #2: Música;;;;;;3575095
+;101;;2;;;nota #2: Música;;;;;;3575662
+;101;;1;;;nota #1: Orientación;;;;;;3575743
+;101;;1;;;nota #1: Orientación;;;;;;3575744
+;101;;1;;;nota #1: Tecnología;;;;;;3574895
+;101;;1;;;nota #1: Tecnología;;;;;;3575573
+;101;;2;;;nota #2: Tecnología;;;;;;3575044
+;101;;2;;;nota #2: Tecnología;;;;;;3575574
+;101;;3;;;nota #3: Tecnología;;;;;;3575045
+;101;;3;;;nota #3: Tecnología;;;;;;3575575
+;101;;4;;;nota #4: Tecnología;;;;;;3575665
+;101;;1;;;nota #1: Religión;;;;;;3575012
+;101;;1;;;nota #1: Religión;;;;;;3575632
+;101;;2;;;nota #2: Religión;;;;;;3575013
+;101;;2;;;nota #2: Religión;;;;;;3575633
+;101;;3;;;nota #3: Religión;;;;;;3575634
+;101;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3574680
+;101;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3575623
+;101;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3574681
+;101;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3575624
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3574682
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3575625
+;101;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3574683
+;101;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3575626
+;101;;5;;;nota #5: Idioma Extranjero: Inglés;;;;;;3575035
+;101;;5;;;nota #5: Idioma Extranjero: Inglés;;;;;;3575627
+;101;;1;;;nota #1: Artes Visuales;;;;;;3584676
+;101;;1;;;nota #1: Artes Visuales;;;;;;3585589
+;101;;2;;;nota #2: Artes Visuales;;;;;;3584677
+;101;;2;;;nota #2: Artes Visuales;;;;;;3585590
+;101;;3;;;nota #3: Artes Visuales;;;;;;3584678
+;101;;3;;;nota #3: Artes Visuales;;;;;;3585591
+;101;;4;;;nota #4: Artes Visuales;;;;;;3584679
+;101;;4;;;nota #4: Artes Visuales;;;;;;3585592
+;101;;5;;;nota #5: Artes Visuales;;;;;;3585593
+;100;;1;;;nota #1: Ciencias Naturales;;;;;;3584712
+;101;;1;;;nota #1: Ciencias Naturales;;;;;;3585349
+;100;;2;;;nota #2: Ciencias Naturales;;;;;;3584713
+;101;;2;;;nota #2: Ciencias Naturales;;;;;;3585547
+;101;;3;;;nota #3: Ciencias Naturales;;;;;;3584714
+;100;;3;;;nota #3: Ciencias Naturales;;;;;;3585548
+;101;;4;;;nota #4: Ciencias Naturales;;;;;;3585080
+;100;;4;;;nota #4: Ciencias Naturales;;;;;;3585549
+;101;;5;;;nota #5: Ciencias Naturales;;;;;;3585081
+;101;;5;;;nota #5: Ciencias Naturales;;;;;;3585550
+;101;;6;;;nota #6: Ciencias Naturales;;;;;;3585082
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3584757
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3585229
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3585049
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3585292
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3585105
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3585738
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3585106
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3585739
+;101;;5;;;nota #5: Educación Física y Salud;;;;;;3585740
+;100;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3584957
+;101;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3585453
+;100;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3584958
+;101;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3585454
+;101;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3584959
+;101;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3585717
+;100;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3584960
+;101;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3585718
+;100;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3584961
+;101;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3585719
+;101;;6;;;nota #6: Historia, Geografía y Ciencias Sociales;;;;;;3584962
+;100;;7;;;nota #7: Historia, Geografía y Ciencias Sociales;;;;;;3584963
+;100;;8;;;nota #8: Historia, Geografía y Ciencias Sociales;;;;;;3584964
+;101;;9;;;nota #9: Historia, Geografía y Ciencias Sociales;;;;;;3584965
+;101;;10;;;nota #10: Historia, Geografía y Ciencias Sociales;;;;;;3584966
+;100;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3584595
+;100;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3585218
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3584596
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3585219
+;101;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3584597
+;100;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3585220
+;101;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3584598
+;101;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3585221
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3584599
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3585222
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3584600
+;101;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3585223
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3584601
+;101;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3585224
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3584602
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3585225
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3584603
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3585226
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3584647
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3585724
+;101;;11;;;nota #11: Lenguaje y Comunicación;;;;;;3585725
+;100;;1;;;nota #1: Matemática;;;;;;3584785
+;101;;1;;;nota #1: Matemática;;;;;;3585576
+;100;;2;;;nota #2: Matemática;;;;;;3584786
+;101;;2;;;nota #2: Matemática;;;;;;3585705
+;100;;3;;;nota #3: Matemática;;;;;;3584787
+;101;;3;;;nota #3: Matemática;;;;;;3585706
+;101;;4;;;nota #4: Matemática;;;;;;3584788
+;101;;4;;;nota #4: Matemática;;;;;;3585734
+;101;;5;;;nota #5: Matemática;;;;;;3584789
+;101;;5;;;nota #5: Matemática;;;;;;3585763
+;101;;6;;;nota #6: Matemática;;;;;;3585159
+;101;;7;;;nota #7: Matemática;;;;;;3585160
+;101;;8;;;nota #8: Matemática;;;;;;3585161
+;101;;1;;;nota #1: Música;;;;;;3585096
+;101;;1;;;nota #1: Música;;;;;;3585663
+;101;;2;;;nota #2: Música;;;;;;3585097
+;101;;2;;;nota #2: Música;;;;;;3585664
+;101;;1;;;nota #1: Orientación;;;;;;3585753
+;101;;1;;;nota #1: Orientación;;;;;;3585761
+;101;;1;;;nota #1: Tecnología;;;;;;3584925
+;100;;1;;;nota #1: Tecnología;;;;;;3585531
+;100;;2;;;nota #2: Tecnología;;;;;;3584926
+;100;;2;;;nota #2: Tecnología;;;;;;3585532
+;100;;3;;;nota #3: Tecnología;;;;;;3584927
+;101;;3;;;nota #3: Tecnología;;;;;;3585533
+;101;;4;;;nota #4: Tecnología;;;;;;3584928
+;101;;4;;;nota #4: Tecnología;;;;;;3585534
+;101;;5;;;nota #5: Tecnología;;;;;;3584929
+;101;;5;;;nota #5: Tecnología;;;;;;3585535
+;101;;1;;;nota #1: Religión;;;;;;3585014
+;101;;1;;;nota #1: Religión;;;;;;3585655
+;101;;2;;;nota #2: Religión;;;;;;3585015
+;101;;2;;;nota #2: Religión;;;;;;3585656
+;101;;3;;;nota #3: Religión;;;;;;3585657
+;101;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3585000
+;101;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3585722
+;101;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3585001
+;101;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3585628
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3585002
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3585629
+;101;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3585003
+;101;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3585630
+;101;;5;;;nota #5: Idioma Extranjero: Inglés;;;;;;3585036
+;101;;5;;;nota #5: Idioma Extranjero: Inglés;;;;;;3585631
+;100;;1;;;nota #1: Artes Visuales;;;;;;3594851
+;101;;1;;;nota #1: Artes Visuales;;;;;;3595390
+;101;;2;;;nota #2: Artes Visuales;;;;;;3594852
+;101;;2;;;nota #2: Artes Visuales;;;;;;3595391
+;100;;3;;;nota #3: Artes Visuales;;;;;;3594853
+;101;;3;;;nota #3: Artes Visuales;;;;;;3595392
+;101;;4;;;nota #4: Artes Visuales;;;;;;3594854
+;100;;5;;;nota #5: Artes Visuales;;;;;;3595040
+;101;;6;;;nota #6: Artes Visuales;;;;;;3595041
+;100;;7;;;nota #7: Artes Visuales;;;;;;3595148
+;101;;8;;;nota #8: Artes Visuales;;;;;;3595149
+;100;;1;;;nota #1: Ciencias Naturales;;;;;;3594715
+;101;;1;;;nota #1: Ciencias Naturales;;;;;;3595350
+;100;;2;;;nota #2: Ciencias Naturales;;;;;;3594716
+;101;;2;;;nota #2: Ciencias Naturales;;;;;;3595551
+;101;;3;;;nota #3: Ciencias Naturales;;;;;;3594717
+;101;;3;;;nota #3: Ciencias Naturales;;;;;;3595552
+;100;;4;;;nota #4: Ciencias Naturales;;;;;;3595076
+;101;;4;;;nota #4: Ciencias Naturales;;;;;;3595720
+;100;;5;;;nota #5: Ciencias Naturales;;;;;;3595077
+;101;;6;;;nota #6: Ciencias Naturales;;;;;;3595078
+;101;;7;;;nota #7: Ciencias Naturales;;;;;;3595079
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3594775
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3595235
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3595052
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3595294
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3595107
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3595669
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3595108
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3595670
+;101;;5;;;nota #5: Educación Física y Salud;;;;;;3595671
+;101;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3594879
+;101;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3595274
+;101;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3594880
+;101;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3595275
+;101;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3594881
+;101;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3595276
+;100;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3594882
+;100;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3595277
+;100;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3594883
+;100;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3595278
+;100;;6;;;nota #6: Historia, Geografía y Ciencias Sociales;;;;;;3594884
+;100;;6;;;nota #6: Historia, Geografía y Ciencias Sociales;;;;;;3595279
+;100;;7;;;nota #7: Historia, Geografía y Ciencias Sociales;;;;;;3594885
+;101;;7;;;nota #7: Historia, Geografía y Ciencias Sociales;;;;;;3595280
+;101;;8;;;nota #8: Historia, Geografía y Ciencias Sociales;;;;;;3594886
+;100;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3594604
+;100;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3595198
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3594605
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3595199
+;101;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3594606
+;100;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3595200
+;101;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3594607
+;101;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3595201
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3594608
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3595202
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3594609
+;101;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3595203
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3594610
+;101;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3595204
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3594611
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3595205
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3594612
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3595206
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3594648
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3595207
+;101;;11;;;nota #11: Lenguaje y Comunicación;;;;;;3595727
+;100;;1;;;nota #1: Matemática;;;;;;3594831
+;101;;1;;;nota #1: Matemática;;;;;;3595338
+;101;;2;;;nota #2: Matemática;;;;;;3594832
+;101;;2;;;nota #2: Matemática;;;;;;3595339
+;100;;3;;;nota #3: Matemática;;;;;;3594833
+;101;;3;;;nota #3: Matemática;;;;;;3595340
+;101;;4;;;nota #4: Matemática;;;;;;3594834
+;101;;4;;;nota #4: Matemática;;;;;;3595341
+;100;;5;;;nota #5: Matemática;;;;;;3594835
+;101;;5;;;nota #5: Matemática;;;;;;3595342
+;101;;6;;;nota #6: Matemática;;;;;;3594836
+;100;;7;;;nota #7: Matemática;;;;;;3595062
+;101;;8;;;nota #8: Matemática;;;;;;3595063
+;100;;9;;;nota #9: Matemática;;;;;;3595064
+;101;;10;;;nota #10: Matemática;;;;;;3595065
+;100;;1;;;nota #1: Música;;;;;;3594843
+;101;;1;;;nota #1: Música;;;;;;3595386
+;101;;2;;;nota #2: Música;;;;;;3594844
+;101;;2;;;nota #2: Música;;;;;;3595387
+;100;;3;;;nota #3: Música;;;;;;3594845
+;101;;4;;;nota #4: Música;;;;;;3594846
+;100;;5;;;nota #5: Música;;;;;;3595144
+;101;;6;;;nota #6: Música;;;;;;3595145
+;101;;1;;;nota #1: Orientación;;;;;;3595754
+;101;;1;;;nota #1: Orientación;;;;;;3595771
+;101;;1;;;nota #1: Tecnología;;;;;;3594684
+;101;;1;;;nota #1: Tecnología;;;;;;3595613
+;101;;2;;;nota #2: Tecnología;;;;;;3594685
+;101;;2;;;nota #2: Tecnología;;;;;;3595614
+;101;;3;;;nota #3: Tecnología;;;;;;3594686
+;101;;3;;;nota #3: Tecnología;;;;;;3595615
+;101;;4;;;nota #4: Tecnología;;;;;;3594687
+;101;;4;;;nota #4: Tecnología;;;;;;3595616
+;101;;5;;;nota #5: Tecnología;;;;;;3595617
+;101;;1;;;nota #1: Religión;;;;;;3595016
+;101;;1;;;nota #1: Religión;;;;;;3595635
+;101;;2;;;nota #2: Religión;;;;;;3595017
+;101;;2;;;nota #2: Religión;;;;;;3595636
+;101;;3;;;nota #3: Religión;;;;;;3595637
+;100;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3594970
+;100;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3595456
+;100;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3594971
+;100;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3595457
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3594972
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3595458
+;100;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3594973
+;100;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3595459
+;100;;5;;;nota #5: Idioma Extranjero: Inglés;;;;;;3594974
+;100;;5;;;nota #5: Idioma Extranjero: Inglés;;;;;;3595460
+;101;;6;;;nota #6: Idioma Extranjero: Inglés;;;;;;3594975
+;101;;6;;;nota #6: Idioma Extranjero: Inglés;;;;;;3595461
+;100;;7;;;nota #7: Idioma Extranjero: Inglés;;;;;;3594976
+;100;;7;;;nota #7: Idioma Extranjero: Inglés;;;;;;3595462
+;100;;8;;;nota #8: Idioma Extranjero: Inglés;;;;;;3594977
+;100;;8;;;nota #8: Idioma Extranjero: Inglés;;;;;;3595463
+;101;;9;;;nota #9: Idioma Extranjero: Inglés;;;;;;3594978
+;101;;9;;;nota #9: Idioma Extranjero: Inglés;;;;;;3595464
+;101;;10;;;nota #10: Idioma Extranjero: Inglés;;;;;;3594979
+;100;;10;;;nota #10: Idioma Extranjero: Inglés;;;;;;3595465
+;101;;11;;;nota #11: Idioma Extranjero: Inglés;;;;;;3595466
+;101;;1;;;nota #1: Artes Visuales;;;;;;3604688
+;101;;1;;;nota #1: Artes Visuales;;;;;;3605594
+;101;;2;;;nota #2: Artes Visuales;;;;;;3604689
+;101;;2;;;nota #2: Artes Visuales;;;;;;3605595
+;101;;3;;;nota #3: Artes Visuales;;;;;;3604690
+;101;;3;;;nota #3: Artes Visuales;;;;;;3605596
+;101;;4;;;nota #4: Artes Visuales;;;;;;3604691
+;101;;4;;;nota #4: Artes Visuales;;;;;;3605597
+;101;;5;;;nota #5: Artes Visuales;;;;;;3605598
+;100;;1;;;nota #1: Ciencias Naturales;;;;;;3604721
+;101;;1;;;nota #1: Ciencias Naturales;;;;;;3605351
+;100;;2;;;nota #2: Ciencias Naturales;;;;;;3604722
+;101;;2;;;nota #2: Ciencias Naturales;;;;;;3605556
+;101;;3;;;nota #3: Ciencias Naturales;;;;;;3604723
+;101;;3;;;nota #3: Ciencias Naturales;;;;;;3605557
+;100;;4;;;nota #4: Ciencias Naturales;;;;;;3605083
+;101;;4;;;nota #4: Ciencias Naturales;;;;;;3605558
+;100;;5;;;nota #5: Ciencias Naturales;;;;;;3605084
+;101;;6;;;nota #6: Ciencias Naturales;;;;;;3605085
+;101;;7;;;nota #7: Ciencias Naturales;;;;;;3605086
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3604708
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3605236
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3605056
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3605239
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3605117
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3605678
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3605118
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3605679
+;101;;5;;;nota #5: Educación Física y Salud;;;;;;3605680
+;101;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3604887
+;101;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3605281
+;101;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3604888
+;101;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3605282
+;101;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3604889
+;101;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3605283
+;100;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3604890
+;100;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3605284
+;100;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3604891
+;100;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3605285
+;100;;6;;;nota #6: Historia, Geografía y Ciencias Sociales;;;;;;3604892
+;100;;6;;;nota #6: Historia, Geografía y Ciencias Sociales;;;;;;3605286
+;100;;7;;;nota #7: Historia, Geografía y Ciencias Sociales;;;;;;3604893
+;101;;7;;;nota #7: Historia, Geografía y Ciencias Sociales;;;;;;3605287
+;101;;8;;;nota #8: Historia, Geografía y Ciencias Sociales;;;;;;3604894
+;100;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3604613
+;100;;1;;;nota #1: Lenguaje y Comunicación;;;;;;3605208
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3604614
+;100;;2;;;nota #2: Lenguaje y Comunicación;;;;;;3605209
+;101;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3604615
+;100;;3;;;nota #3: Lenguaje y Comunicación;;;;;;3605210
+;101;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3604616
+;101;;4;;;nota #4: Lenguaje y Comunicación;;;;;;3605211
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3604617
+;101;;5;;;nota #5: Lenguaje y Comunicación;;;;;;3605212
+;100;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3604618
+;101;;6;;;nota #6: Lenguaje y Comunicación;;;;;;3605213
+;100;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3604619
+;101;;7;;;nota #7: Lenguaje y Comunicación;;;;;;3605214
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3604620
+;101;;8;;;nota #8: Lenguaje y Comunicación;;;;;;3605215
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3604621
+;101;;9;;;nota #9: Lenguaje y Comunicación;;;;;;3605216
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3604649
+;101;;10;;;nota #10: Lenguaje y Comunicación;;;;;;3605217
+;101;;11;;;nota #11: Lenguaje y Comunicación;;;;;;3605728
+;100;;1;;;nota #1: Matemática;;;;;;3604790
+;101;;1;;;nota #1: Matemática;;;;;;3605577
+;100;;2;;;nota #2: Matemática;;;;;;3604791
+;101;;2;;;nota #2: Matemática;;;;;;3605731
+;100;;3;;;nota #3: Matemática;;;;;;3604792
+;101;;3;;;nota #3: Matemática;;;;;;3605732
+;101;;4;;;nota #4: Matemática;;;;;;3604793
+;101;;4;;;nota #4: Matemática;;;;;;3605733
+;101;;5;;;nota #5: Matemática;;;;;;3604794
+;101;;5;;;nota #5: Matemática;;;;;;3605745
+;101;;6;;;nota #6: Matemática;;;;;;3605154
+;101;;7;;;nota #7: Matemática;;;;;;3605155
+;101;;8;;;nota #8: Matemática;;;;;;3605156
+;100;;1;;;nota #1: Música;;;;;;3604847
+;101;;1;;;nota #1: Música;;;;;;3605388
+;101;;2;;;nota #2: Música;;;;;;3604848
+;101;;2;;;nota #2: Música;;;;;;3605389
+;100;;3;;;nota #3: Música;;;;;;3604849
+;101;;4;;;nota #4: Música;;;;;;3604850
+;100;;5;;;nota #5: Música;;;;;;3605146
+;101;;6;;;nota #6: Música;;;;;;3605147
+;101;;1;;;nota #1: Orientación;;;;;;3605755
+;101;;1;;;nota #1: Orientación;;;;;;3605756
+;101;;1;;;nota #1: Tecnología;;;;;;3605024
+;101;;1;;;nota #1: Tecnología;;;;;;3605638
+;101;;2;;;nota #2: Tecnología;;;;;;3605025
+;101;;2;;;nota #2: Tecnología;;;;;;3605639
+;101;;3;;;nota #3: Tecnología;;;;;;3605026
+;101;;3;;;nota #3: Tecnología;;;;;;3605640
+;101;;4;;;nota #4: Tecnología;;;;;;3605027
+;101;;4;;;nota #4: Tecnología;;;;;;3605641
+;101;;5;;;nota #5: Tecnología;;;;;;3605642
+;101;;1;;;nota #1: Religión;;;;;;3605018
+;101;;1;;;nota #1: Religión;;;;;;3605658
+;101;;2;;;nota #2: Religión;;;;;;3605019
+;101;;2;;;nota #2: Religión;;;;;;3605659
+;101;;3;;;nota #3: Religión;;;;;;3605660
+;100;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3604980
+;100;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3605467
+;100;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3604981
+;100;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3605468
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3604982
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3605469
+;100;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3604983
+;100;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3605470
+;100;;5;;;nota #5: Idioma Extranjero: Inglés;;;;;;3604984
+;100;;5;;;nota #5: Idioma Extranjero: Inglés;;;;;;3605471
+;101;;6;;;nota #6: Idioma Extranjero: Inglés;;;;;;3604985
+;101;;6;;;nota #6: Idioma Extranjero: Inglés;;;;;;3605472
+;100;;7;;;nota #7: Idioma Extranjero: Inglés;;;;;;3604986
+;100;;7;;;nota #7: Idioma Extranjero: Inglés;;;;;;3605473
+;100;;8;;;nota #8: Idioma Extranjero: Inglés;;;;;;3604987
+;100;;8;;;nota #8: Idioma Extranjero: Inglés;;;;;;3605474
+;101;;9;;;nota #9: Idioma Extranjero: Inglés;;;;;;3604988
+;101;;9;;;nota #9: Idioma Extranjero: Inglés;;;;;;3605475
+;101;;10;;;nota #10: Idioma Extranjero: Inglés;;;;;;3604989
+;100;;10;;;nota #10: Idioma Extranjero: Inglés;;;;;;3605476
+;101;;11;;;nota #11: Idioma Extranjero: Inglés;;;;;;3605477
+;101;;1;;;nota #1: Artes Visuales;;;;;;3614692
+;101;;1;;;nota #1: Artes Visuales;;;;;;3615599
+;101;;2;;;nota #2: Artes Visuales;;;;;;3614693
+;101;;2;;;nota #2: Artes Visuales;;;;;;3615600
+;101;;3;;;nota #3: Artes Visuales;;;;;;3614694
+;101;;3;;;nota #3: Artes Visuales;;;;;;3615601
+;101;;4;;;nota #4: Artes Visuales;;;;;;3614695
+;101;;4;;;nota #4: Artes Visuales;;;;;;3615602
+;101;;5;;;nota #5: Artes Visuales;;;;;;3615603
+;101;;1;;;nota #1: Ciencias Naturales;;;;;;3614897
+;100;;1;;;nota #1: Ciencias Naturales;;;;;;3615352
+;100;;2;;;nota #2: Ciencias Naturales;;;;;;3614932
+;100;;2;;;nota #2: Ciencias Naturales;;;;;;3615561
+;100;;3;;;nota #3: Ciencias Naturales;;;;;;3614933
+;101;;3;;;nota #3: Ciencias Naturales;;;;;;3615562
+;101;;4;;;nota #4: Ciencias Naturales;;;;;;3614934
+;101;;4;;;nota #4: Ciencias Naturales;;;;;;3615563
+;101;;5;;;nota #5: Ciencias Naturales;;;;;;3615037
+;101;;5;;;nota #5: Ciencias Naturales;;;;;;3615564
+;101;;6;;;nota #6: Ciencias Naturales;;;;;;3615038
+;101;;6;;;nota #6: Ciencias Naturales;;;;;;3615565
+;101;;7;;;nota #7: Ciencias Naturales;;;;;;3615039
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3614899
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3615237
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3615070
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3615326
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3615121
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3615708
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3615122
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3615709
+;101;;5;;;nota #5: Educación Física y Salud;;;;;;3615710
+;100;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3614935
+;100;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3615486
+;100;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3614936
+;100;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3615487
+;100;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3614937
+;101;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3615696
+;100;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3614938
+;100;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3615697
+;101;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3614939
+;100;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3615698
+;100;;6;;;nota #6: Historia, Geografía y Ciencias Sociales;;;;;;3614940
+;101;;6;;;nota #6: Historia, Geografía y Ciencias Sociales;;;;;;3615699
+;100;;7;;;nota #7: Historia, Geografía y Ciencias Sociales;;;;;;3614941
+;100;;7;;;nota #7: Historia, Geografía y Ciencias Sociales;;;;;;3615700
+;101;;8;;;nota #8: Historia, Geografía y Ciencias Sociales;;;;;;3614942
+;100;;8;;;nota #8: Historia, Geografía y Ciencias Sociales;;;;;;3615701
+;100;;9;;;nota #9: Historia, Geografía y Ciencias Sociales;;;;;;3614943
+;101;;9;;;nota #9: Historia, Geografía y Ciencias Sociales;;;;;;3615702
+;100;;10;;;nota #10: Historia, Geografía y Ciencias Sociales;;;;;;3614944
+;101;;11;;;nota #11: Historia, Geografía y Ciencias Sociales;;;;;;3614945
+;101;;12;;;nota #12: Historia, Geografía y Ciencias Sociales;;;;;;3614946
+;100;;1;;;nota #1: Matemática;;;;;;3614837
+;101;;1;;;nota #1: Matemática;;;;;;3615343
+;101;;2;;;nota #2: Matemática;;;;;;3614838
+;101;;2;;;nota #2: Matemática;;;;;;3615344
+;100;;3;;;nota #3: Matemática;;;;;;3614839
+;101;;3;;;nota #3: Matemática;;;;;;3615345
+;101;;4;;;nota #4: Matemática;;;;;;3614840
+;101;;4;;;nota #4: Matemática;;;;;;3615346
+;100;;5;;;nota #5: Matemática;;;;;;3614841
+;101;;5;;;nota #5: Matemática;;;;;;3615347
+;101;;6;;;nota #6: Matemática;;;;;;3614842
+;100;;7;;;nota #7: Matemática;;;;;;3615066
+;101;;8;;;nota #8: Matemática;;;;;;3615067
+;100;;9;;;nota #9: Matemática;;;;;;3615068
+;101;;10;;;nota #10: Matemática;;;;;;3615069
+;101;;1;;;nota #1: Música;;;;;;3615032
+;101;;1;;;nota #1: Música;;;;;;3615604
+;101;;2;;;nota #2: Música;;;;;;3615033
+;101;;2;;;nota #2: Música;;;;;;3615605
+;101;;3;;;nota #3: Música;;;;;;3615034
+;101;;3;;;nota #3: Música;;;;;;3615606
+;101;;4;;;nota #4: Música;;;;;;3615607
+;101;;1;;;nota #1: Orientación;;;;;;3615757
+;101;;1;;;nota #1: Orientación;;;;;;3615758
+;101;;1;;;nota #1: Tecnología;;;;;;3614696
+;101;;1;;;nota #1: Tecnología;;;;;;3615608
+;101;;2;;;nota #2: Tecnología;;;;;;3614697
+;101;;2;;;nota #2: Tecnología;;;;;;3615609
+;101;;3;;;nota #3: Tecnología;;;;;;3614698
+;101;;3;;;nota #3: Tecnología;;;;;;3615610
+;101;;4;;;nota #4: Tecnología;;;;;;3614699
+;101;;4;;;nota #4: Tecnología;;;;;;3615611
+;101;;5;;;nota #5: Tecnología;;;;;;3615612
+;101;;1;;;nota #1: Religión;;;;;;3615046
+;101;;1;;;nota #1: Religión;;;;;;3615289
+;101;;2;;;nota #2: Religión;;;;;;3615047
+;101;;2;;;nota #2: Religión;;;;;;3615290
+;101;;3;;;nota #3: Religión;;;;;;3615291
+;100;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3614990
+;100;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3615478
+;100;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3614991
+;100;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3615479
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3614992
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3615480
+;100;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3614993
+;100;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3615481
+;100;;5;;;nota #5: Idioma Extranjero: Inglés;;;;;;3614994
+;100;;5;;;nota #5: Idioma Extranjero: Inglés;;;;;;3615482
+;101;;6;;;nota #6: Idioma Extranjero: Inglés;;;;;;3614995
+;101;;6;;;nota #6: Idioma Extranjero: Inglés;;;;;;3615483
+;100;;7;;;nota #7: Idioma Extranjero: Inglés;;;;;;3614996
+;100;;7;;;nota #7: Idioma Extranjero: Inglés;;;;;;3615484
+;100;;8;;;nota #8: Idioma Extranjero: Inglés;;;;;;3614997
+;101;;8;;;nota #8: Idioma Extranjero: Inglés;;;;;;3615485
+;101;;9;;;nota #9: Idioma Extranjero: Inglés;;;;;;3614998
+;101;;10;;;nota #10: Idioma Extranjero: Inglés;;;;;;3614999
+;101;;1;;;nota #1: Lengua y Literatura;;;;;;3614734
+;101;;1;;;nota #1: Lengua y Literatura;;;;;;3615241
+;100;;2;;;nota #2: Lengua y Literatura;;;;;;3614735
+;101;;2;;;nota #2: Lengua y Literatura;;;;;;3615242
+;100;;3;;;nota #3: Lengua y Literatura;;;;;;3614736
+;101;;3;;;nota #3: Lengua y Literatura;;;;;;3615243
+;101;;4;;;nota #4: Lengua y Literatura;;;;;;3614737
+;101;;4;;;nota #4: Lengua y Literatura;;;;;;3615244
+;100;;5;;;nota #5: Lengua y Literatura;;;;;;3614738
+;101;;5;;;nota #5: Lengua y Literatura;;;;;;3615245
+;100;;6;;;nota #6: Lengua y Literatura;;;;;;3614739
+;101;;7;;;nota #7: Lengua y Literatura;;;;;;3614740
+;101;;7;;;nota #7: Lengua y Literatura;;;;;;3615247
+;101;;8;;;nota #8: Lengua y Literatura;;;;;;3614741
+;101;;8;;;nota #8: Lengua y Literatura;;;;;;3615248
+;101;;9;;;nota #9: Lengua y Literatura;;;;;;3614742
+;100;;9;;;nota #9: Lengua y Literatura;;;;;;3615249
+;101;;10;;;nota #10: Lengua y Literatura;;;;;;3614743
+;100;;10;;;nota #10: Lengua y Literatura;;;;;;3615250
+;101;;11;;;nota #11: Lengua y Literatura;;;;;;3615072
+;100;;11;;;nota #11: Lengua y Literatura;;;;;;3615251
+;101;;12;;;nota #12: Lengua y Literatura;;;;;;3615252
+;101;;1;;;nota #1: Artes Visuales;;;;;;3634810
+;101;;1;;;nota #1: Artes Visuales;;;;;;3635523
+;101;;2;;;nota #2: Artes Visuales;;;;;;3634898
+;101;;2;;;nota #2: Artes Visuales;;;;;;3635524
+;101;;3;;;nota #3: Artes Visuales;;;;;;3635525
+;101;;4;;;nota #4: Artes Visuales;;;;;;3635677
+;100;;1;;;nota #1: Ciencias Naturales;;;;;;3634718
+;101;;1;;;nota #1: Ciencias Naturales;;;;;;3635353
+;100;;2;;;nota #2: Ciencias Naturales;;;;;;3634719
+;101;;2;;;nota #2: Ciencias Naturales;;;;;;3635566
+;101;;3;;;nota #3: Ciencias Naturales;;;;;;3634720
+;100;;3;;;nota #3: Ciencias Naturales;;;;;;3635567
+;100;;4;;;nota #4: Ciencias Naturales;;;;;;3635087
+;100;;4;;;nota #4: Ciencias Naturales;;;;;;3635568
+;100;;5;;;nota #5: Ciencias Naturales;;;;;;3635088
+;101;;5;;;nota #5: Ciencias Naturales;;;;;;3635569
+;101;;6;;;nota #6: Ciencias Naturales;;;;;;3635089
+;101;;6;;;nota #6: Ciencias Naturales;;;;;;3635721
+;101;;7;;;nota #7: Ciencias Naturales;;;;;;3635090
+;101;;8;;;nota #8: Ciencias Naturales;;;;;;3635091
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3634878
+;101;;1;;;nota #1: Educación Física y Salud;;;;;;3635238
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3635057
+;101;;2;;;nota #2: Educación Física y Salud;;;;;;3635240
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3635119
+;101;;3;;;nota #3: Educación Física y Salud;;;;;;3635746
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3635120
+;101;;4;;;nota #4: Educación Física y Salud;;;;;;3635747
+;101;;5;;;nota #5: Educación Física y Salud;;;;;;3635748
+;100;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3634818
+;101;;1;;;nota #1: Historia, Geografía y Ciencias Sociales;;;;;;3635265
+;100;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3634819
+;101;;2;;;nota #2: Historia, Geografía y Ciencias Sociales;;;;;;3635266
+;100;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3634820
+;101;;3;;;nota #3: Historia, Geografía y Ciencias Sociales;;;;;;3635267
+;101;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3634821
+;101;;4;;;nota #4: Historia, Geografía y Ciencias Sociales;;;;;;3635268
+;101;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3634822
+;100;;5;;;nota #5: Historia, Geografía y Ciencias Sociales;;;;;;3635269
+;101;;6;;;nota #6: Historia, Geografía y Ciencias Sociales;;;;;;3634823
+;100;;6;;;nota #6: Historia, Geografía y Ciencias Sociales;;;;;;3635270
+;101;;7;;;nota #7: Historia, Geografía y Ciencias Sociales;;;;;;3634824
+;101;;7;;;nota #7: Historia, Geografía y Ciencias Sociales;;;;;;3635271
+;100;;1;;;nota #1: Matemática;;;;;;3634795
+;101;;1;;;nota #1: Matemática;;;;;;3635578
+;100;;2;;;nota #2: Matemática;;;;;;3634796
+;101;;2;;;nota #2: Matemática;;;;;;3635703
+;101;;3;;;nota #3: Matemática;;;;;;3634797
+;101;;3;;;nota #3: Matemática;;;;;;3635704
+;100;;4;;;nota #4: Matemática;;;;;;3634798
+;101;;4;;;nota #4: Matemática;;;;;;3635730
+;100;;5;;;nota #5: Matemática;;;;;;3635139
+;101;;5;;;nota #5: Matemática;;;;;;3635762
+;101;;6;;;nota #6: Matemática;;;;;;3635140
+;101;;7;;;nota #7: Matemática;;;;;;3635141
+;101;;8;;;nota #8: Matemática;;;;;;3635142
+;101;;9;;;nota #9: Matemática;;;;;;3635143
+;101;;1;;;nota #1: Música;;;;;;3634811
+;101;;1;;;nota #1: Música;;;;;;3635336
+;101;;2;;;nota #2: Música;;;;;;3634812
+;101;;2;;;nota #2: Música;;;;;;3635337
+;101;;3;;;nota #3: Música;;;;;;3635526
+;101;;1;;;nota #1: Orientación;;;;;;3635759
+;101;;1;;;nota #1: Orientación;;;;;;3635760
+;101;;1;;;nota #1: Tecnología;;;;;;3634700
+;101;;1;;;nota #1: Tecnología;;;;;;3635618
+;101;;2;;;nota #2: Tecnología;;;;;;3634701
+;101;;2;;;nota #2: Tecnología;;;;;;3635619
+;101;;3;;;nota #3: Tecnología;;;;;;3634702
+;101;;3;;;nota #3: Tecnología;;;;;;3635620
+;101;;4;;;nota #4: Tecnología;;;;;;3634703
+;101;;4;;;nota #4: Tecnología;;;;;;3635621
+;101;;5;;;nota #5: Tecnología;;;;;;3635622
+;100;;1;;;nota #1: Religión;;;;;;3634855
+;101;;1;;;nota #1: Religión;;;;;;3635393
+;101;;2;;;nota #2: Religión;;;;;;3634856
+;101;;2;;;nota #2: Religión;;;;;;3635394
+;100;;3;;;nota #3: Religión;;;;;;3634857
+;101;;3;;;nota #3: Religión;;;;;;3635395
+;101;;4;;;nota #4: Religión;;;;;;3634858
+;100;;5;;;nota #5: Religión;;;;;;3635150
+;101;;6;;;nota #6: Religión;;;;;;3635151
+;100;;7;;;nota #7: Religión;;;;;;3635152
+;101;;8;;;nota #8: Religión;;;;;;3635153
+;101;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3634704
+;101;;1;;;nota #1: Idioma Extranjero: Inglés;;;;;;3635650
+;101;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3634705
+;101;;2;;;nota #2: Idioma Extranjero: Inglés;;;;;;3635651
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3634706
+;101;;3;;;nota #3: Idioma Extranjero: Inglés;;;;;;3635652
+;101;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3634707
+;101;;4;;;nota #4: Idioma Extranjero: Inglés;;;;;;3635653
+;101;;5;;;nota #5: Idioma Extranjero: Inglés;;;;;;3635654
+;101;;1;;;nota #1: Lengua y Literatura;;;;;;3634724
+;101;;1;;;nota #1: Lengua y Literatura;;;;;;3635253
+;101;;2;;;nota #2: Lengua y Literatura;;;;;;3634725
+;101;;2;;;nota #2: Lengua y Literatura;;;;;;3635254
+;101;;3;;;nota #3: Lengua y Literatura;;;;;;3634726
+;101;;3;;;nota #3: Lengua y Literatura;;;;;;3635255
+;100;;4;;;nota #4: Lengua y Literatura;;;;;;3634727
+;101;;4;;;nota #4: Lengua y Literatura;;;;;;3635256
+;100;;5;;;nota #5: Lengua y Literatura;;;;;;3634728
+;101;;5;;;nota #5: Lengua y Literatura;;;;;;3635257
+;101;;6;;;nota #6: Lengua y Literatura;;;;;;3634729
+;101;;6;;;nota #6: Lengua y Literatura;;;;;;3635258
+;100;;7;;;nota #7: Lengua y Literatura;;;;;;3634730
+;101;;7;;;nota #7: Lengua y Literatura;;;;;;3635259
+;100;;8;;;nota #8: Lengua y Literatura;;;;;;3634731
+;101;;8;;;nota #8: Lengua y Literatura;;;;;;3635260
+;101;;9;;;nota #9: Lengua y Literatura;;;;;;3634732
+;100;;9;;;nota #9: Lengua y Literatura;;;;;;3635261
+;101;;10;;;nota #10: Lengua y Literatura;;;;;;3634733
+;100;;10;;;nota #10: Lengua y Literatura;;;;;;3635262
+;101;;11;;;nota #11: Lengua y Literatura;;;;;;3635071
+;101;;11;;;nota #11: Lengua y Literatura;;;;;;3635263

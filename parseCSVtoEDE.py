@@ -55,7 +55,18 @@ def main():
 
   args._encode = 'utf8' #Opciones Windows:'cp1252', Google Colab: 'utf8'
   args._sep = ';'       #Opciones Windows:';', Google Colab: ','
-  args.path_to_dir_csv_file = './csv/'
+
+  # fullcollege
+  colegio = args.output.split("/")[1]
+  path_to_csv_file = f'./csv/{colegio}/'
+
+  if 'path_to_file' in args:
+    menu.cleanDirectory(path_to_csv_file)
+  
+  args.path_to_dir_csv_file = path_to_csv_file
+  # endfullcollege
+
+  # args.path_to_dir_csv_file = './csv/'
   args.t_stamp = t_stamp
 
   if('func' in args): 
@@ -88,17 +99,17 @@ def main():
     f'./{t_stamp}_ForenKeyErrors.csv',
     f'./{t_stamp}_LOG.txt',
     f'./{t_stamp}_encryptedD3.db'
-    ] + [os.path.join(r,file) for r,d,f in os.walk("./csv") for file in f] 
+    ] + [os.path.join(r,file) for r,d,f in os.walk(f'./csv/{colegio}') for file in f] 
 
   logger.info(f"Archivos a comprimir {listFiles}")
 
   for file in listFiles:
     if os.path.exists(file):
-      if not file.endswith('_key.txt') and not file.startswith('./csv/'):
+      if not file.endswith('_key.txt') and not file.startswith(path_to_csv_file):
         zipFile.write(file)
-      if file.startswith('./csv/') and "parse" in sys.argv:
+      if file.startswith(path_to_csv_file) and "parse" in sys.argv:
         zipFile.write(file)
-      if not file.startswith('./csv/'):
+      if not file.startswith(path_to_csv_file):
         os.remove(file)
 
   logger.info("Finalizando ejecución desde 'ede.py'...")

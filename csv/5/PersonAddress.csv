@@ -1,0 +1,3 @@
+AddressCountyName;ApartmentRoomOrSuiteNumber;City;Latitude;Longitude;PostalCode;RecordEndDateTime;RecordStartDateTime;RefCountryId;RefPersonalInformationVerificationId;RefStateId;PersonAddressId;PersonId;RefCountyId;RefPersonLocationTypeId;StreetNumberAndName
+;;La Florida;;;;;;45;;;1;9191807;;13;PJE ANTIGONISH 10376
+;;Puente Alto;;;;;;45;;;2;18053586;;13;Estación Lastarria

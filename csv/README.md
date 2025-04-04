@@ -1,1 +1,0 @@
-Carpeta que se utiliza para almacenar el contenido del comando PARSE
