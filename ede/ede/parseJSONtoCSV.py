@@ -16,29 +16,33 @@ class parse:
             f"typo de argumento: {type(self.args)}, valores: {self.args}")
 
     def execute(self) -> Literal[True]:
+        JSONGroupNameAUX = ''
         xd = self.cargarPlanillaConDatosDelModelo()
-        jsonData, jsonFileName = self.readJsonData(
-            self.args.path_to_file, self.args.nozip)
-
+        # jsonData, jsonFileName = self.readJsonData(self.args.path_to_file, self.args.nozip)
         for row in list(xd[xd["JSONGroup"].notnull()].groupby(["JSONGroup", "Table"])):
+            JSONGroupName = row[0][0]
+            if JSONGroupName != JSONGroupNameAUX:
+                jsonData, jsonFileName = self.readJsonDataFC(JSONGroupName)
+
             elem = {
-                "JSONGroupName": row[0][0],
+                "JSONGroupName": JSONGroupName,
                 "TableName": row[0][1],
                 "ColumnList": list(row[1]["Column"]),
                 "DataType": list(row[1]["Data Type"]),
                 "SIERequired": list(row[1]["SIERequired"])
             }
 
-            _t = f'Procesando Grupo:{row[0][0]}>Tabla:{row[0][1]}'
+            _t = f'Procesando Grupo:{JSONGroupName}>Tabla:{row[0][1]}'
             logger.info(_t)
-            records = self.leerTodosLosRegistrosDeLaTablaDesdeArchivoJson(
-                jsonData, elem)
+            records = self.leerTodosLosRegistrosDeLaTablaDesdeArchivoJson(jsonData, elem)
 
             if(records):
                 self.crearCSV(jsonFileName, self.args.path_to_dir_csv_file+elem['TableName']+'.csv',
                               elem['TableName'],
                               elem['ColumnList'],
                               records)
+
+            JSONGroupNameAUX = JSONGroupName
 
         _t = 'Archivo JSON completamente transformado.'
         logger.info(_t)
@@ -53,8 +57,19 @@ class parse:
         _t = f'Planilla {url} cargada satisfactoriamente'
         logger.info(_t)
         return xd
+    
+    def readJsonDataFC(self, JSONGroupName):
+        file = f"{JSONGroupName}.json"
+        with open(f"{self.args.path_to_file}/{file}", mode='r', encoding="utf-8") as jsonfile:
+            jsonData = json.load(jsonfile)
+            _t = f"Archivo '{jsonfile}' leído sin inconvenientes\n"
+            logger.info(_t)
+            jsonfile.close()
+        
+        return jsonData, file
 
-    def readJsonData(self, path_to_file: str, nozip: bool) -> Tuple[Any, str]:
+    # REEMPLAZADO POR readJsonDataFC
+    def readJsonData(self, path_to_file: str, nozip: bool, ) -> Tuple[Any, str]:
         # Descomprime el contenido del archivo ZIP y lo carga en memoria
         if(path_to_file):
             if(not nozip):
