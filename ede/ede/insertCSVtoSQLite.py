@@ -66,9 +66,9 @@ class insert:
             df = pd.read_csv(url)
             _t = f'Planilla {url} cargada satisfactoriamente'
             logger.info(_t)
-            clavePublica = "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAx6hrH6bHEYs8RDpkPaQh1Ql9KyWkd0GsCME9nqpgDukr9G7lM7QgpkclelP8lpOSbKc6yhcgXtMOM32Pk8zXmtKJ73LYdA2N1+ieePyXI8oAlsb4zkPLW0aJLinvNZT3AYMth2cqVVQInOlo99s77f8BR60NycUuKGrR6GGdO7ynG8aQDmtsX2f8+7/lEmrlyicafI7xC6UOmpApTGamOZ1+0NkEMDmIAZCkynRssDroHvijoRlUqV9uK4a/m5rQn6Wtl1fDMhY9Iob37+b2u0rEk6+AJmwK7cnAFt1Ee5e4BlCAfynAloaGARIPcnApZF1NAy4eGDWVP6sk91+cEZlmNUlFcLRO8GGlOd2jWKiRrzLQKn14+xBtlwvoA1OcZSvKtBfStbZhi8XEG9hwsi/AurfBpQfdNcipArzaFP2Htt5I56LhtqR/MmJiaM6ApU9H0U3+1B5P5wmvS9AH6Efqqd7nMVcutg+DZrtb7eVRgsLL0vmL9oafbfuU2Vw6xLAgg53LgCqzIAdSp3A+CHmimkBDXuTlYuzeS6GwevgHh1x9/J4Y2M0WKgah3MdSaZylB8U2ci0kENY1Xpx/dqIL2xUH/bg0eYll1Ones7/4OzjKPhDiVhhujCRspkWBQTq12QcAYLlSxbcKXFXoCRWWkm74ehEWebaI1RSeihkCAwEAAQ=="
-            # clavePublica = df[df['Dirección de correo electrónico'] == email]['Clave Pública'].values[0].replace(
-            #     '-----BEGIN PUBLIC KEY-----', '').replace('-----END PUBLIC KEY-----', '')
+            # clavePublica = "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAx6hrH6bHEYs8RDpkPaQh1Ql9KyWkd0GsCME9nqpgDukr9G7lM7QgpkclelP8lpOSbKc6yhcgXtMOM32Pk8zXmtKJ73LYdA2N1+ieePyXI8oAlsb4zkPLW0aJLinvNZT3AYMth2cqVVQInOlo99s77f8BR60NycUuKGrR6GGdO7ynG8aQDmtsX2f8+7/lEmrlyicafI7xC6UOmpApTGamOZ1+0NkEMDmIAZCkynRssDroHvijoRlUqV9uK4a/m5rQn6Wtl1fDMhY9Iob37+b2u0rEk6+AJmwK7cnAFt1Ee5e4BlCAfynAloaGARIPcnApZF1NAy4eGDWVP6sk91+cEZlmNUlFcLRO8GGlOd2jWKiRrzLQKn14+xBtlwvoA1OcZSvKtBfStbZhi8XEG9hwsi/AurfBpQfdNcipArzaFP2Htt5I56LhtqR/MmJiaM6ApU9H0U3+1B5P5wmvS9AH6Efqqd7nMVcutg+DZrtb7eVRgsLL0vmL9oafbfuU2Vw6xLAgg53LgCqzIAdSp3A+CHmimkBDXuTlYuzeS6GwevgHh1x9/J4Y2M0WKgah3MdSaZylB8U2ci0kENY1Xpx/dqIL2xUH/bg0eYll1Ones7/4OzjKPhDiVhhujCRspkWBQTq12QcAYLlSxbcKXFXoCRWWkm74ehEWebaI1RSeihkCAwEAAQ=="
+            clavePublica = df[df['Dirección de correo electrónico'] == email]['Clave Pública'].values[0].replace(
+                '-----BEGIN PUBLIC KEY-----', '').replace('-----END PUBLIC KEY-----', '')
             _t = f"clave pública: {clavePublica}"
             logger.info(_t)
             return clavePublica
